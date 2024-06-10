@@ -1,0 +1,4 @@
+repository "Bachelor Project@AlexTufaru@cloud"
+  path "/"
+    br "/main"
+    co "/main"
